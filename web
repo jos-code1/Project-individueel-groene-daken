@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="nl">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welkom - Home</title>
+    <link rel="stylesheet" href="styles/style.css">
+</head>
+
+<body>
+    <header>
+        <a href="index.html">
+            <img src="images/logo_projectzwarte_bg.png" alt="Logo Green on top">
+        </a>
+        <nav>
+            <ul>
+                <li><a href="duurzaam.html">Duurzaam</a></li>
+                <li><a href="amsterdam.html">Amsterdam</a></li>
+                <li><a href="geinteresseerd.html">Geïnteresseerd?</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <img class="adamimg" src="images/amsterdam_icon.png" alt="Amsterdam icoon">
+            <h1>Amsterdam</h1>           
+        </section>
+        <img src="images/Loop_bg_app_2.png" alt="Achtergrond foto stad met groene daken">
+    </main>
+    <footer>
+        <p>Copyright Jos van der Meer ©</p>
+    </footer>
+
+</body>
+
+</html>
+
+<!DOCTYPE html>
+<html lang="nl">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welkom - Home</title>
+    <link rel="stylesheet" href="styles/style.css">
+</head>
+
+<body>
+    <header>
+        <a href="index.html">
+            <img src="images/logo_projectzwarte_bg.png" alt="Logo Green on top">
+        </a>
+        <nav>
+            <ul>
+                <li><a href="duurzaam.html">Duurzaam</a></li>
+                <li><a href="amsterdam.html">Amsterdam</a></li>
+                <li><a href="geinteresseerd.html">Geïnteresseerd?</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <img class="duurzaamimg" src="images/duurzaam_icon.png" alt="Duurzaam icoon">
+            <h1>Duurzaam</h1>
+            <p>Wat maken groene daken zo duurzaam?</p>
+            <ul>
+                <li><h2>Isolatie:</h2> Comfort in elk seizoen.</li>
+                <li><h2>Regenwaterbeheer:</h2> Voorkomt overstromingen.</li>
+                <li><h2>Luchtverfrissing:</h2> Natuurlijke luchtverfrissers.</li>
+                <li><h2>Dierenparadijs:</h2> Mini-jungle voor planten en dieren.</li>
+                <li><h2>Dak-levensverlenger:</h2> Beschermt en verlengt levensduur.</li>
+                <li><h2>Energie-efficiëntie:</h2> Minder energieverbruik.</li>
+                <li><h2>Hippe uitstraling:</h2> Cool groen element.</li>
+                <li><h2>Stilteplekje:</h2> Geluiddempend.</li>
+                <li><h2>Hittevermindering:</h2> Tegen het hete stadseffect.</li>
+            </ul>
+            <p>Groene daken, multitaskers voor een groenere stad!</p>           
+        </section>
+        <img src="images/Loop_bg_app_2.png" alt="Achtergrond foto stad met groene daken">
+    </main>
+    <footer>
+        <p>Copyright Jos van der Meer ©</p>
+    </footer>
+
+</body>
+
+</html>
+
+<!DOCTYPE html>
+<html lang="nl">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welkom - Home</title>
+    <link rel="stylesheet" href="styles/style.css">
+</head>
+
+<body>
+    <header>
+        <a href="index.html">
+            <img src="images/logo_projectzwarte_bg.png" alt="Logo Green on top">
+        </a>
+        <nav>
+            <ul>
+                <li><a href="duurzaam.html">Duurzaam</a></li>
+                <li><a href="amsterdam.html">Amsterdam</a></li>
+                <li><a href="geinteresseerd.html">Geïnteresseerd?</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="welkomclass">
+            <img class="welkomimg" src="images/welkom_icon.png" alt="Zwaaiende hand (welkom)">
+            <h1>Welkom!</h1>
+                <p>Je ziet ze meer en meer in Amsterdam, groene daken. Ze zijn niet te missen en goed voor van alles. Zo isoleerd het
+                    goed, zorgt het voor goede afvoer van regenwater en verbetert het de luchtkwaliteit. Op deze website ben je op het
+                    juiste adres om achter alles te komen wat groene daken doen!
+                </p>
+        </section>
+        <img src="images/Loop_bg_app_1_top.png" alt="Achtergrond foto stad met groene daken">
+    </main>
+
+    <footer>
+        <p>Copyright Jos van der Meer ©</p>
+    </footer>
+
+</body>
+
+</html>
