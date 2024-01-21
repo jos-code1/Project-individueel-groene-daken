@@ -42,6 +42,7 @@ main section {
     margin-top: 125px;
     margin-left: 50px;
     font-size: 12px;
+    padding: 10px;
 }
 
 .welkomclass {
@@ -63,10 +64,19 @@ main section ul {
 
 .duurzaamimg {
     width:100px;
-    margin-left: 80px
+    margin-left: 80px;
 }
 
+.adamimg {
+    width: 100px;
+    margin-left: 80px;
+}
 
+.dakimg {
+    width: 130px;
+    margin-left: 65px;
+    margin-top: 5px;
+}
 
 footer {
     background-color: #f0f0f0;
